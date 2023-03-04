@@ -1,0 +1,22 @@
+{
+  "name": "him",
+  "version": "1.0.0",
+  "description": "To start this application first you can get this repo code using below url",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ACIEK-Global/him.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ACIEK-Global/him/issues"
+  },
+  "homepage": "https://github.com/ACIEK-Global/him#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
